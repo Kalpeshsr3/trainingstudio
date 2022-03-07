@@ -453,6 +453,10 @@ footer{
 	.navbar{
 		
 		background:#fff;
+		height:10vw;
+	}
+	.centerheading p {
+	font-size:3vw;
 	}
 	.togglebtn{
 	position:relative;
@@ -508,5 +512,8 @@ footer{
    #signup{
 	   padding:2.5vw 0vw;
    }
+.myfooter h5 {
+    font-size: 2vw;
+}
 }
 /*********Media Queries end***********/
